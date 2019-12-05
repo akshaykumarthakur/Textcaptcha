@@ -92,7 +92,7 @@
 </style>
 <script src="js/jquery.ripples.js"></script>
 <video autoplay muted loop id="myVideo">
-  <source src="circle.mp4" type="video/mp4">
+  <source src="https://static.videezy.com/system/resources/previews/000/007/218/original/CIRCULAR_INTERFACE_HUD.mp4" type="video/mp4">
 </video>
 <!-- Optional: some overlay text to describe the video -->
 <div class="content banner_water_effect">
